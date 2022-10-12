@@ -111,7 +111,7 @@ Jika belum kalian bisa klik dan ikuti video dibawah ini untuk menginstall semua 
 
 #### Instalasi git
 
-https://youtu.be/e-6OkXRqWaE
+[![VIDEO INSTALASI GIT](https://img.youtube.com/vi/e-6OkXRqWaE/0.jpg)](https://www.youtube.com/watch?v=e-6OkXRqWaE)
 
 #### Instalasi Node.js dan NPM
 
